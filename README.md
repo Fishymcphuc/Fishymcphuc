@@ -13,4 +13,4 @@ My journey in computer Information System has led me to develop a passion for cy
 
 - [Google Cybersecurity](https://coursera.org/share/0c5197d9c94bae9adb75cad06f7ca81d)
 - [Google IT Support](https://coursera.org/share/59dbe35194a5e11a303de829fd6ab10b)
-- [TryHackMe Intro to Cyber](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BLATR5KMUE.png)
+- [TryHackMe Intro to Cybersecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BLATR5KMUE.png)
